@@ -2,7 +2,7 @@
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
 name = "GHCi"
-license = "MIT"
+license = "BSD 3-Clause"
 licenselink = "https://github.com/Binary-Eater/hugo-theme-ghci/blob/trunk/LICENSE"
 description = "Hugo GHCi theme : Terminal-like theme with selectable color schemes."
 homepage = "https://github.com/Binary-Eater/hugo-theme-ghci/"
